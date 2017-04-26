@@ -1,4 +1,21 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "bicycle",
+        "title": "Poland stronk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.068145751953125,
+          52.234528294213646
+        ]
+      }
+    }
+  ]
 }
