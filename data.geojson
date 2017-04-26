@@ -16,6 +16,22 @@
           52.234528294213646
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffff00",
+        "marker-size": "medium",
+        "marker-symbol": "village",
+        "title": "CZ stronk!"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.5458984375,
+          49.95121990866204
+        ]
+      }
     }
   ]
 }
